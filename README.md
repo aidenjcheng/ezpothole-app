@@ -23,4 +23,7 @@ in this repo in / firmware
 - better documentation for assembly of camera
 
 **Whats the point of the iOS app?**
-GPS module for XIAO ESP32 S3 SENSE doesn't ship to US unfortunately so I just used the iOS app to track data since it was already being used for hotspot for the camera. 
+- GPS module for XIAO ESP32 S3 SENSE doesn't ship to US unfortunately so I just used the iOS app to track data since it was already being used for hotspot for the camera. 
+
+**Why**
+- I was annoyed by potholes but not enough to track the location and take a picture of it. So i thought why not make a device that does it for me.
